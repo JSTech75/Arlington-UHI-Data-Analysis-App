@@ -14,7 +14,7 @@ data = {
 df = pd.DataFrame(data)
 
 # Calculate the Impact of Trees (Independent Variable: Canopy, Dependent: LST)
-X = df]
+x = df]
 y = df
 tree_model = LinearRegression().fit(X, y)
 
